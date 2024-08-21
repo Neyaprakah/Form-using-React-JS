@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Form-using-React-JS/static/css/main.0ea8ad5d.css",
+    "main.js": "/Form-using-React-JS/static/js/main.780252e6.js",
+    "index.html": "/Form-using-React-JS/index.html",
+    "main.0ea8ad5d.css.map": "/Form-using-React-JS/static/css/main.0ea8ad5d.css.map",
+    "main.780252e6.js.map": "/Form-using-React-JS/static/js/main.780252e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ea8ad5d.css",
+    "static/js/main.780252e6.js"
+  ]
+}
